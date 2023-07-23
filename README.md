@@ -81,8 +81,11 @@ References are tagged for quick accessibility through `pubs list "tags:<tag>"`.
 Below is the list of associated tags and their descriptions[^2]:
 
 - `HIT`: Works related to isotropic turbulence.
+- `ImplicitMethods`: Works related to (semi-)implicit numerical methods.
 - `VariableDensity`: Works related to variable-density flows.
-- `Thesis`: Doctoral thesis references.
+- `SpectralMethods`: Works related to spectral numerical methods.
+- `Textbook`: Textbooks.
+- `Thesis`: Doctoral theses.
 - `PhD`[^3]: References used in my thesis.
 - `ArticleVDHIT`: References used in
   [our article on isotropic turbulence][articleVDHIT]
