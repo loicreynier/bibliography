@@ -1,0 +1,7 @@
+/.cache
+/betterbib_cache.sqlite
+/bibliography.bib.blg
+/bibliography_bibertool.bib
+
+# Nix generated
+/.pre-commit-config.yaml

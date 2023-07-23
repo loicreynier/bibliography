@@ -1,0 +1,5 @@
+input-file: ./template.md
+from: markdown
+to: markdown_strict
+output-file: ../bibliography.md
+citeproc: true

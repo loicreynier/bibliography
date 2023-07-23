@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "bierner.markdown-footnotes",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "valentjn.vscode-ltex"
+    ]
+}
