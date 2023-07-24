@@ -16,6 +16,11 @@ Valetin Nikolaevich Monakhov. 1990. _Boundary Value Problems in
 Mechanics of Nonhomogeneous Fluids_. North Holland Amsterdam: Elsevier.
 <https://doi.org/10.1016/s0168-2024(08)x7006-7>.
 
+Beirão Da Veiga, H. 1996. “Long Time Behaviour of the Solutions to the
+Navier-Stokes Equations with Diffusion.” _Nonlinear Analysis: Theory,
+Methods & Applications_ 27 (11): 1229–39.
+<https://doi.org/10.1016/0362-546x(95)00117-e>.
+
 Bell, John B., and Daniel L. Marcus. 1992. “A Second-Order Projection
 Method for Variable-Density Flows.” _Journal of Computational Physics_
 101 (2): 334–48. <https://doi.org/10.1016/0021-9991(92)90011-m>.
@@ -24,6 +29,12 @@ Brachet, Marc E., Daniel I. Meiron, Steven A. Orszag, B. G. Nickel,
 Rudolf H. Morf, and Uriel Frisch. 1983. “Small-Scale Structure of the
 Taylor–Green Vortex.” _Journal of Fluid Mechanics_ 130 (-1): 411.
 <https://doi.org/10.1017/s0022112083001159>.
+
+Bresch, Didier, El Hassan Essoufi, and Mamadou Sy. 2002. “De Nouveaux
+Systèmes de Type Kazhikhov–Smagulov : Modèles de Propagation de
+Polluants Et de Combustion à Faible Nombre de Mach.” _Comptes Rendus
+Mathematique_ 335 (11): 973–78.
+<https://doi.org/10.1016/s1631-073x(02)02593-1>.
 
 Brown, David L., Ricardo Cortez, and Michael L. Minion. 2001. “Accurate
 Projection Methods for the Incompressible Navier–Stokes Equations.”
@@ -64,6 +75,9 @@ Curry, James H., Jackson R. Herring, Josip Loncaric, and Steven A.
 Orszag. 1984. “Order and Disorder in Two- and Three-Dimensional Bénard
 Convection.” _Journal of Fluid Mechanics_ 147 (October): 1–38.
 <https://doi.org/10.1017/s0022112084001968>.
+
+Cussler, Edward Lansing. 2009. _Diffusion: Mass Transfer in Fluid
+Systems_. Cambridge university press.
 
 Desjardins, Olivier, Guillaume Blanquart, Guillaume Balarac, and Heinz
 Pitsch. 2008. “High Order Conservative Finite Difference Scheme for
@@ -109,6 +123,11 @@ and Viscosity Ratios.” _Fluids_ 6 (1): 23.
 Eswaran, Vinayak, and Stephen B. Pope. 1988. “An Examination of Forcing
 in Direct Numerical Simulations of Turbulence.” _Computers & Fluids_ 16
 (3): 257–78. <https://doi.org/10.1016/0045-7930(88)90013-8>.
+
+Franchi, Franca, and Brian Straughan. 2001. “A Comparison of the Graffi
+and Kazhikhov–Smagulov Models for Top Heavy Pollution Instability.”
+_Advances in Water Resources_ 24 (6): 585–94.
+<https://doi.org/10.1016/s0309-1708(00)00073-7>.
 
 Frank-Kamenetskii, David Albertovich. 1955. _Diffusion and Heat Exchange
 in Chemical Kinetics_. Vol. 2171. Princeton University Press.
@@ -161,6 +180,10 @@ Controlled Integral Length Scale.” _Physics of Fluids_ 33 (4): 045127.
 Jiménez, Javier, Alan A. Wray, Philip G. Saffman, and Robert S. Rogallo. 1993. “The Structure of Intense Vorticity in Isotropic Turbulence.”
 _Journal of Fluid Mechanics_ 255 (October): 65.
 <https://doi.org/10.1017/s0022112093002393>.
+
+Karim, S. Malik, and Louis Rosenhead. 4AD. “The Second Coefficient of
+Viscosity of Liquids and Gases.” _Rev. Mod. Phys._ 24 (April): 108–16.
+<https://doi.org/10.1103/RevModPhys.24.108>.
 
 Kazhikhov, Aleksandr Vasil’evich, and Sh Smagulov. 1977. “The
 Correctness of Boundary-Value Problems in a Diffusion Model of an
@@ -282,6 +305,9 @@ Tadjeran, Charles. 2006. “Stability Analysis of the Crank–Nicholson
 Method for Variable Coefficient Diffusion Equation.” _Communications in
 Numerical Methods in Engineering_ 23 (1): 29–34.
 <https://doi.org/10.1002/cnm.879>.
+
+Taylor, Ross, and Rajamani Krishna. 1993. _Multicomponent Mass
+Transfer_. Vol. 2. John Wiley & Sons.
 
 Thual, Olivier. 1986. “Transition Vers La Turbulence Dans Les Systèmes
 Dynamiques Apparentés La Convection.” PhD thesis, Université de

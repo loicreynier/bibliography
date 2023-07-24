@@ -122,5 +122,5 @@ this repository should be cloned and linked to `~/.pubs`:
 
 ```shell
 git clone git@github.com:loicreynier/bibliography <path>
-ln -s ~/.pubs <path>
+ln -s <path> ~/.pubs
 ```
