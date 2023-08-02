@@ -99,7 +99,7 @@ Below is the list of associated tags and their descriptions[^2]:
 [^3]:
     The full bibliography of my thesis can be exported to the BibTeX format
     using the command
-    `pubs list "tags:phd" -k | xargs pubs export > references.bib`.
+    `pubs list "tags:PhD" -k | xargs pubs export > references.bib`.
 
 [articleVDHIT]: ./bib/reynier2023isotropic.bib
 [articleVDPrecond]: ./bib/reynier2023preconditioning.bib

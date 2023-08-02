@@ -185,7 +185,7 @@ Karim, S. Malik, and Louis Rosenhead. 4AD. “The Second Coefficient of
 Viscosity of Liquids and Gases.” _Rev. Mod. Phys._ 24 (April): 108–16.
 <https://doi.org/10.1103/RevModPhys.24.108>.
 
-Kazhikhov, Aleksandr Vasil’evich, and Sh Smagulov. 1977. “The
+Kazhikhov, Aleksandr Vasil’evich, and Shaltay S. Smagulov. 1977. “The
 Correctness of Boundary-Value Problems in a Diffusion Model of an
 Inhomogeneous Liquid.” In _Soviet Physics Doklady_, 22:249.
 
@@ -307,7 +307,7 @@ Numerical Methods in Engineering_ 23 (1): 29–34.
 <https://doi.org/10.1002/cnm.879>.
 
 Taylor, Ross, and Rajamani Krishna. 1993. _Multicomponent Mass
-Transfer_. Vol. 2. John Wiley & Sons.
+Transfer_. Vol. 2. Wiley.
 
 Thual, Olivier. 1986. “Transition Vers La Turbulence Dans Les Systèmes
 Dynamiques Apparentés La Convection.” PhD thesis, Université de
