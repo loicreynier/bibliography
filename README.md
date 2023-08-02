@@ -84,6 +84,8 @@ Below is the list of associated tags and their descriptions[^2]:
 - `ImplicitMethods`: Works related to (semi-)implicit numerical methods.
 - `VariableDensity`: Works related to variable-density flows.
 - `SpectralMethods`: Works related to spectral numerical methods.
+- `Lectures`: Lectures notes and presentations;
+- `Software`: Library, programs and protocols.
 - `Textbook`: Textbooks.
 - `Thesis`: Doctoral theses.
 - `PhD`[^3]: References used in my thesis.

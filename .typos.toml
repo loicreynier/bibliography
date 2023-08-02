@@ -1,0 +1,8 @@
+[default.extend-words]
+# -- Author names
+Sigal = "Sigal"
+bresh = "bresh"
+
+# -- French
+Espace = "Espace"
+stabilite = "stabilite" # stabilité
