@@ -353,7 +353,7 @@ _Physical Review Fluids_, submitted.
 Reynier, Loïc, Bastien Di Pierro, Frédéric Alizard, Anne Cadiou, Lionel
 Le Penven, and Marc Buffat. submitted. “A Preconditioning for the
 Spectral Solution of Incompressible Variable-Density Flows.” _Computers
-and Fluids_, submitted.
+& Fluids_, submitted.
 
 Reynolds, Osborne. 1895. “IV. On the Dynamical Theory of Incompressible
 Viscous Fluids and the Determination of the Criterion.” _Philosophical
