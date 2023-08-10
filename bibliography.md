@@ -25,7 +25,7 @@ Bell, John B., and Daniel L. Marcus. 1992. “A Second-Order Projection
 Method for Variable-Density Flows.” _Journal of Computational Physics_
 101 (2): 334–48. <https://doi.org/10.1016/0021-9991(92)90011-m>.
 
-Bird, R. Byron, Warren E. Steward, and Lightfoot Edwin N. 2002.
+Bird, R. Byron, Warren E. Steward, and N. Edwin Lightfoot. 2002.
 _Transport Phenomena_. 2nd, Wiley international ed. Wiley.
 
 Brachet, Marc E., Daniel I. Meiron, Steven A. Orszag, B. G. Nickel,
