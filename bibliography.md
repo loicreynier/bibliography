@@ -357,9 +357,10 @@ Reynier, Loïc, Bastien Di Pierro, and Frédéric Alizard. submitted.
 _Physical Review Fluids_, submitted.
 
 Reynier, Loïc, Bastien Di Pierro, Frédéric Alizard, Anne Cadiou, Lionel
-Le Penven, and Marc Buffat. submitted. “A Preconditioning for the
-Spectral Solution of Incompressible Variable-Density Flows.” _Computers
-& Fluids_, submitted.
+Le Penven, and Marc Buffat. 2023. “A Preconditioning for the Spectral
+Solution of Incompressible Variable-Density Flows.” _Computers & Fluids_
+266 (November): 106024.
+<https://doi.org/10.1016/j.compfluid.2023.106024>.
 
 Reynolds, Osborne. 1895. “IV. On the Dynamical Theory of Incompressible
 Viscous Fluids and the Determination of the Criterion.” _Philosophical
