@@ -16,6 +16,9 @@ Valetin Nikolaevich Monakhov. 1990. _Boundary Value Problems in
 Mechanics of Nonhomogeneous Fluids_. North Holland Amsterdam: Elsevier.
 <https://doi.org/10.1016/s0168-2024(08)x7006-7>.
 
+Ashour, Samir K, and Mahmood A Abdel-hameed. 2010. “Approximate Skew
+Normal Distribution.” _Journal of Advanced Research_ 1 (4): 341–50.
+
 Beirão Da Veiga, H. 1996. “Long Time Behaviour of the Solutions to the
 Navier-Stokes Equations with Diffusion.” _Nonlinear Analysis: Theory,
 Methods & Applications_ 27 (11): 1229–39.
@@ -233,6 +236,9 @@ of Fluid Mechanics_, submitted.
 Janin, Jérémie, Fabien Duval, Christophe Friess, and Pierre Sagaut. 2021. “A New Linear Forcing Method for Isotropic Turbulence with
 Controlled Integral Length Scale.” _Physics of Fluids_ 33 (4): 045127.
 <https://doi.org/10.1063/5.0045818>.
+
+Jiménez, Javier. 2007. “Intermittency in Turbulence.” In _Proc. 15th
+“Aha Huliko” a Winter Workshop, Extreme Events_, 81–90.
 
 Jiménez, Javier, Alan A. Wray, Philip G. Saffman, and Robert S. Rogallo. 1993. “The Structure of Intense Vorticity in Isotropic Turbulence.”
 _Journal of Fluid Mechanics_ 255 (October): 65.
