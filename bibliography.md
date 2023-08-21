@@ -325,7 +325,7 @@ _Computers & Fluids_ 27 (1): 11–28.
 
 Pachauri, Rajendra K, Myles R Allen, Vicente R Barros, John Broome,
 Wolfgang Cramer, Renate Christ, John A Church, et al. 2014. _Climate
-Change 2014: Synthesis Report. Contribution of Working Groups i, II and
+Change 2014: Synthesis Report. Contribution of Working Groups I, II and
 III to the Fifth Assessment Report of the Intergovernmental Panel on
 Climate Change_. Ipcc.
 <https://epic.awi.de/id/eprint/37530/1/IPCC_AR5_SYR_Final.pdf>.
