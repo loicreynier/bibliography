@@ -31,6 +31,11 @@ Method for Variable-Density Flows.” _Journal of Computational Physics_
 Bird, R. Byron, Warren E. Steward, and N. Edwin Lightfoot. 2002.
 _Transport Phenomena_. 2nd, Wiley international ed. Wiley.
 
+Boujemaa, Sami, Muriel Amielh, and Marie Pierre Chauve. 2004. “Analyse
+Spatio-Temporelle de Jets Axisymétriques d′air Et d′hélium.” _Comptes
+Rendus Mécanique_ 332 (11): 933–39.
+<https://doi.org/10.1016/j.crme.2004.06.009>.
+
 Brachet, Marc E., Daniel I. Meiron, Steven A. Orszag, B. G. Nickel,
 Rudolf H. Morf, and Uriel Frisch. 1983. “Small-Scale Structure of the
 Taylor–Green Vortex.” _Journal of Fluid Mechanics_ 130 (-1): 411.
