@@ -32,7 +32,7 @@ Bird, R. Byron, Warren E. Steward, and N. Edwin Lightfoot. 2002.
 _Transport Phenomena_. 2nd, Wiley international ed. Wiley.
 
 Boujemaa, Sami, Muriel Amielh, and Marie Pierre Chauve. 2004. “Analyse
-Spatio-Temporelle de Jets Axisymétriques d′air Et d′hélium.” _Comptes
+Spatio-Temporelle de Jets Axisymétriques d’air Et d’hélium.” _Comptes
 Rendus Mécanique_ 332 (11): 933–39.
 <https://doi.org/10.1016/j.crme.2004.06.009>.
 
