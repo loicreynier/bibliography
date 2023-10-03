@@ -440,6 +440,11 @@ Statistical Properties of Homogeneous Turbulence.” _Journal of Fluid
 Mechanics_ 225 (April): 1–20.
 <https://doi.org/10.1017/s0022112091001957>.
 
+Viola, Francesco, Cristobal Arratia, and François Gallaire. 2016. “Mode
+Selection in Trailing Vortices: Harmonic Response of the Non-Parallel
+Batchelor Vortex.” _Journal of Fluid Mechanics_ 790 (February): 523–52.
+<https://doi.org/10.1017/jfm.2016.18>.
+
 Wilke, Charles R. 1950. “A Viscosity Equation for Gas Mixtures.” _The
 Journal of Chemical Physics_ 18 (4): 517–19.
 <https://doi.org/10.1063/1.1747673>.
