@@ -255,7 +255,7 @@ Viscosity of Liquids and Gases.” _Rev. Mod. Phys._ 24 (April): 108–16.
 
 Kazhikhov, Aleksandr Vasil’evich, and Shaltay S. Smagulov. 1977. “The
 Correctness of Boundary-Value Problems in a Diffusion Model of an
-Inhomogeneous Liquid.” In _Soviet Physics Doklady_, 22:249.
+Inhomogeneous Liquid.” _Dokl. Akad. Nauk SSSR_ 234 (2): 330–32.
 
 Kerr, Robert McDougall. 1985. “Higher-Order Derivative Correlations and
 the Alignment of Small-Scale Structures in Isotropic Numerical
