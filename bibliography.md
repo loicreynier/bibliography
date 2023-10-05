@@ -166,6 +166,11 @@ Frigo, Matteo., and Steven G. Johnson. 2005. “The Design and
 Implementation of FFTW3.” _Proceedings of the IEEE_ 93 (2): 216–31.
 <https://doi.org/10.1109/jproc.2004.840301>.
 
+Gallaire, François, and Jean-Marc Chomaz. 2003. “Mode Selection in
+Swirling Jet Experiments: A Linear Stability Analysis.” _Journal of
+Fluid Mechanics_ 494 (November): 223–53.
+<https://doi.org/10.1017/s0022112003006104>.
+
 Glaze, Lori S., and Stephen M. Baloga. 1996. “Sensitivity of Buoyant
 Plume Heights to Ambient Atmospheric Conditions: Implications for
 Volcanic Eruption Columns.” _Journal of Geophysical Research:
@@ -439,11 +444,6 @@ Vincent, Albert, and Maria Meneguzzi. 1991. “The Spatial Structure and
 Statistical Properties of Homogeneous Turbulence.” _Journal of Fluid
 Mechanics_ 225 (April): 1–20.
 <https://doi.org/10.1017/s0022112091001957>.
-
-Viola, Francesco, Cristobal Arratia, and François Gallaire. 2016. “Mode
-Selection in Trailing Vortices: Harmonic Response of the Non-Parallel
-Batchelor Vortex.” _Journal of Fluid Mechanics_ 790 (February): 523–52.
-<https://doi.org/10.1017/jfm.2016.18>.
 
 Wilke, Charles R. 1950. “A Viscosity Equation for Gas Mixtures.” _The
 Journal of Chemical Physics_ 18 (4): 517–19.
