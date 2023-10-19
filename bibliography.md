@@ -1,5 +1,10 @@
 # References
 
+Agrawal, Rahul, Alexandros Alexakis, Marc E. Brachet, and Laurette S.
+Tuckerman. 2020. “Turbulent Cascade, Bottleneck, and Thermalized
+Spectrum in Hyperviscous Flows.” _Physical Review Fluids_ 5 (2).
+<https://doi.org/10.1103/physrevfluids.5.024601>.
+
 Alizard, Frédéric, Anne Cadiou, Lionel Le Penven, Bastien Di Pierro, and
 Marc Buffat. 2018. “Space-Time Dynamics of Optimal Wavepackets for
 Streaks in a Channel Entrance Flow.” _Journal of Fluid Mechanics_ 844
@@ -134,6 +139,16 @@ _International Journal for Numerical Methods in Fluids_ 71 (8): 1029–54.
 Vortex.” _Journal of Fluid Mechanics_ 703 (June): 49–59.
 <https://doi.org/10.1017/jfm.2012.185>.
 
+Donzis, Diego A., and Katepali Raju Sreenivasan. 2010. “The Bottleneck
+Effect and the Kolmogorov Constant in Isotropic Turbulence.” _Journal of
+Fluid Mechanics_ 657 (May): 171–88.
+<https://doi.org/10.1017/s0022112010001400>.
+
+Donzis, Diego A., and Pui-Kuen Yeung. 2010. “Resolution Effects and
+Scaling in Numerical Simulations of Passive Scalar Mixing in
+Turbulence.” _Physica D: Nonlinear Phenomena_ 239 (14): 1278–87.
+<https://doi.org/10.1016/j.physd.2009.09.024>.
+
 Dubrulle, Bérengère. 2019. “Beyond Kolmogorov Cascades.” _Journal of
 Fluid Mechanics_ 867 (April): 1. <https://doi.org/10.1017/jfm.2019.98>.
 
@@ -148,6 +163,10 @@ and Viscosity Ratios.” _Fluids_ 6 (1): 23.
 Eswaran, Vinayak, and Stephen B. Pope. 1988. “An Examination of Forcing
 in Direct Numerical Simulations of Turbulence.” _Computers & Fluids_ 16
 (3): 257–78. <https://doi.org/10.1016/0045-7930(88)90013-8>.
+
+Falkovich, Gregory. 1994. “Bottleneck Phenomenon in Developed
+Turbulence.” _Physics of Fluids_ 6 (4): 1411–14.
+<https://doi.org/10.1063/1.868255>.
 
 Fontane, Jérôme. 2005. “Transition des écoulements cisaillés libres à
 densité variable.” PhD thesis, Institut National Polytechnique de
@@ -277,6 +296,11 @@ in Incompressible Viscous Fluid for Very Large Reynolds Numbers.”
 _Proceedings of the Royal Society of London. Series A: Mathematical and
 Physical Sciences_ 434 (1890): 9–13.
 <https://doi.org/10.1098/rspa.1991.0075>.
+
+Küchler, Christian, Gregory Bewley, and Eberhard Bodenschatz. 2019.
+“Experimental Study of the Bottleneck in Fully Developed Turbulence.”
+_Journal of Statistical Physics_ 175 (3-4): 617–39.
+<https://doi.org/10.1007/s10955-019-02251-1>.
 
 Livescu, Daniel, and J. Raymond Ristorcelli. 2007. “Buoyancy-Driven
 Variable-Density Turbulence.” _Journal of Fluid Mechanics_ 591
