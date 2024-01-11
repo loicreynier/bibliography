@@ -399,6 +399,14 @@ Reynier, Loïc, Bastien Di Pierro, and Frédéric Alizard. submitted.
 “Isotropic Turbulence of Variable-Density Incompressible Flows.”
 _Physical Review Fluids_, submitted.
 
+———. 2021. “Turbulence Inhomogène Et Isotrope Des Écoulements
+Incompressibles à Densité Variable.” In _Congrès Des Jeunes Chercheurs
+En Mécanique (MECA-j)_, 75.
+
+———. 2022. “Inhomogeneous Isotropic Trubulence of Variable Density
+Incompressible Flows.” In _14th European Fluid Mechanics Conference
+(EFMC14)_, 854.
+
 Reynier, Loïc, Bastien Di Pierro, Frédéric Alizard, Anne Cadiou, Lionel
 Le Penven, and Marc Buffat. 2023. “A Preconditioning for the Spectral
 Solution of Incompressible Variable-Density Flows.” _Computers & Fluids_
