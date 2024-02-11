@@ -24,6 +24,10 @@ Mechanics of Nonhomogeneous Fluids_. North Holland Amsterdam: Elsevier.
 Ashour, Samir K, and Mahmood A Abdel-hameed. 2010. “Approximate Skew
 Normal Distribution.” _Journal of Advanced Research_ 1 (4): 341–50.
 
+Baerenzung, Julien, Hénène Politano, Yannick Ponty, and Annick Pouquet. 2008. “Spectral Modeling of Turbulent Flows and the Role of Helicity.”
+_Physical Review E_ 77 (4).
+<https://doi.org/10.1103/physreve.77.046303>.
+
 Beirão Da Veiga, H. 1996. “Long Time Behaviour of the Solutions to the
 Navier-Stokes Equations with Diffusion.” _Nonlinear Analysis: Theory,
 Methods & Applications_ 27 (11): 1229–39.
@@ -301,6 +305,11 @@ Küchler, Christian, Gregory Bewley, and Eberhard Bodenschatz. 2019.
 “Experimental Study of the Bottleneck in Fully Developed Turbulence.”
 _Journal of Statistical Physics_ 175 (3-4): 617–39.
 <https://doi.org/10.1007/s10955-019-02251-1>.
+
+Kuczaj, Arkadiusz K., Bernard J. Geurts, and W. David McComb. 2006.
+“Nonlocal Modulation of the Energy Cascade in Broadband-Forced
+Turbulence.” _Physical Review E_ 74 (1).
+<https://doi.org/10.1103/physreve.74.016306>.
 
 Livescu, Daniel, and J. Raymond Ristorcelli. 2007. “Buoyancy-Driven
 Variable-Density Turbulence.” _Journal of Fluid Mechanics_ 591
