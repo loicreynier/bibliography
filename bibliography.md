@@ -24,6 +24,11 @@ Mechanics of Nonhomogeneous Fluids_. North Holland Amsterdam: Elsevier.
 Ashour, Samir K, and Mahmood A Abdel-hameed. 2010. “Approximate Skew
 Normal Distribution.” _Journal of Advanced Research_ 1 (4): 341–50.
 
+Aslangil, Denis, Daniel Livescu, and Arindam Banerjee. 2020. “Effects of
+Atwood and Reynolds Numbers on the Evolution of Buoyancy-Driven
+Homogeneous Variable-Density Turbulence.” _Journal of Fluid Mechanics_
+895 (May). <https://doi.org/10.1017/jfm.2020.268>.
+
 Baerenzung, Julien, Hénène Politano, Yannick Ponty, and Annick Pouquet. 2008. “Spectral Modeling of Turbulent Flows and the Role of Helicity.”
 _Physical Review E_ 77 (4).
 <https://doi.org/10.1103/physreve.77.046303>.
@@ -311,6 +316,10 @@ Kuczaj, Arkadiusz K., Bernard J. Geurts, and W. David McComb. 2006.
 Turbulence.” _Physical Review E_ 74 (1).
 <https://doi.org/10.1103/physreve.74.016306>.
 
+Livescu, Daniel. 2020. “Turbulence with Large Thermal and Compositional
+Density Variations.” _Annual Review of Fluid Mechanics_ 52 (1): 309–41.
+<https://doi.org/10.1146/annurev-fluid-010719-060114>.
+
 Livescu, Daniel, and J. Raymond Ristorcelli. 2007. “Buoyancy-Driven
 Variable-Density Turbulence.” _Journal of Fluid Mechanics_ 591
 (October): 43–71. <https://doi.org/10.1017/s0022112007008270>.
@@ -318,6 +327,11 @@ Variable-Density Turbulence.” _Journal of Fluid Mechanics_ 591
 ———. 2008. “Variable-Density Mixing in Buoyancy-Driven Turbulence.”
 _Journal of Fluid Mechanics_ 605 (May): 145–80.
 <https://doi.org/10.1017/s0022112008001481>.
+
+Livescu, Daniel, J. Raymond Ristorcelli, Robert A. Gore, S. H. Dean,
+William H. Cabot, and Andrew W. Cook. 2009. “High-Reynolds Number
+Rayleigh–Taylor Turbulence.” _Journal of Turbulence_ 10 (January): N13.
+<https://doi.org/10.1080/14685240902870448>.
 
 Livescu, Daniel, J. Raymond Ristorcelli, Mark R. Petersen, and Robert A.
 Gore. 2010. “New Phenomena in Variable-Density Rayleigh–Taylor
