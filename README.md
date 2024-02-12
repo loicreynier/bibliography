@@ -86,8 +86,8 @@ Below is the list of associated tags and their descriptions[^2]:
 - `SpectralMethods`: Works related to spectral numerical methods.
 - `Lectures`: Lectures notes and presentations;
 - `Software`: Library, programs and protocols.
-- `Textbook`: Textbooks.
-- `Thesis`: Doctoral theses.
+- `Textbooks`: Textbooks.
+- `Theses`: Doctoral theses.
 - `PhD`[^3]: References used in my thesis.
 - `ArticleVDHIT`: References used in
   [our article on isotropic turbulence][articleVDHIT]
