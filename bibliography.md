@@ -61,6 +61,11 @@ Polluants Et de Combustion à Faible Nombre de Mach.” _Comptes Rendus
 Mathematique_ 335 (11): 973–78.
 <https://doi.org/10.1016/s1631-073x(02)02593-1>.
 
+Briard, Antoine, Manasa Iyer, and Thomas Gomez. 2017. “Anisotropic
+Spectral Modeling for Unstably Stratified Homogeneous Turbulence.”
+_Physical Review Fluids_ 2 (4).
+<https://doi.org/10.1103/physrevfluids.2.044604>.
+
 Brown, David L., Ricardo Cortez, and Michael L. Minion. 2001. “Accurate
 Projection Methods for the Incompressible Navier–Stokes Equations.”
 _Journal of Computational Physics_ 168 (2): 464–99.
@@ -356,6 +361,11 @@ Moin, Parviz, and Krishnan Mahesh. 1998. “Direct Numerical Simulation: A
 Tool in Turbulence Research.” _Annual Review of Fluid Mechanics_ 30 (1):
 539–78. <https://doi.org/10.1146/annurev.fluid.30.1.539>.
 
+Mons, Vincent, Claude Cambon, and Pierre Sagaut. 2015. “A Spectral Model
+for Homogeneous Shear-Driven Anisotropic Turbulence in Terms of
+Spherically Averaged Descriptors.” _Journal of Fluid Mechanics_ 788
+(December): 147–82. <https://doi.org/10.1017/jfm.2015.705>.
+
 Montagnier, Julien, Anne Cadiou, Marc Buffat, and Lionel Le Penven. 2012. “Towards Petascale Spectral Simulations for Transition Analysis in
 Wall Bounded Flow.” _International Journal for Numerical Methods in
 Fluids_ 72 (7): 709–23. <https://doi.org/10.1002/fld.3758>.
@@ -450,7 +460,7 @@ Residual Algorithm for Solving Nonsymmetric Linear Systems.” _SIAM
 Journal on Scientific and Statistical Computing_ 7 (3): 856–69.
 <https://doi.org/10.1137/0907058>.
 
-Sagaut, Pierre, and Claude Cambon. 2018. _Homogeneous Turbulence
+Sagaut, Pierre, and Claude Cambon. 2008. _Homogeneous Turbulence
 Dynamics_. 2nd ed. Springer.
 <https://doi.org/10.1007/978-3-319-73162-9>.
 
