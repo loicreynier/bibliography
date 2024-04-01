@@ -387,7 +387,7 @@ Geometries.” _Journal of Computational Physics_ 37 (1): 70–92.
 Orszag, Steven A. 1971. “On the Elimination of Aliasing in
 Finite-Difference Schemes by Filtering High-Wavenumber Components.”
 _Journal of the Atmospheric Sciences_ 28 (6): 1074–74.
-[https://doi.org/10.1175/1520-0469(1971)028&lt;1074:oteoai&gt;2.0.co;2](<https://doi.org/10.1175/1520-0469(1971)028<1074:oteoai>2.0.co;2>).
+[https://doi.org/10.1175/1520-0469(1971)028&lt;1074:oteoai&gt;2.0.co;2](<https://doi.org/10.1175/1520-0469(1971)028%3C1074:oteoai%3E2.0.co;2>).
 
 Overholt, Matthew R., and Stephen B. Pope. 1998. “A Deterministic
 Forcing Scheme for Direct Numerical Simulations of Turbulence.”

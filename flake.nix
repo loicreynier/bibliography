@@ -3,25 +3,29 @@
 
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
-    pre-commit-hooks.url = "github:cachix/pre-commit-hooks.nix";
-    pre-commit-hooks.inputs.nixpkgs.follows = "nixpkgs";
+    nixpkgs.url = "github:NixOS/nixpkgs";
+    git-hooks = {
+      url = "github:cachix/git-hooks.nix";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
   };
 
   outputs = {
     self,
     flake-utils,
+    git-hooks,
     nixpkgs,
-    pre-commit-hooks,
   }: let
     supportedSystems = ["x86_64-linux"];
   in
     flake-utils.lib.eachSystem supportedSystems (system: let
       pkgs = import nixpkgs {inherit system;};
-    in rec {
+    in {
       checks = {
-        pre-commit-check = pre-commit-hooks.lib.${system}.run {
+        pre-commit-check = git-hooks.lib.${system}.run {
           src = ./.;
+
+          excludes = ["flake\.lock"];
 
           hooks = with pkgs; {
             check_docfiles = let
@@ -33,6 +37,7 @@
               files = "\.(yaml|bib)$";
               language = "system";
               pass_filenames = false;
+              always_run = true;
             };
             make_bib = {
               enable = true;
