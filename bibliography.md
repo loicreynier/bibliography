@@ -18,8 +18,8 @@ of Computational Physics_ 142 (1): 1–46.
 
 Antontsev, Stanislav Nikolaevich, Aleksandr Vasil’evich Kazhiktov, and
 Valetin Nikolaevich Monakhov. 1990. _Boundary Value Problems in
-Mechanics of Nonhomogeneous Fluids_. North Holland Amsterdam: Elsevier.
-<https://doi.org/10.1016/s0168-2024(08)x7006-7>.
+Mechanics of Nonhomogeneous Fluids_. Studies in Mathematics and Its
+Applications 22. North Holland Amsterdam: North Holland.
 
 Ashour, Samir K, and Mahmood A Abdel-hameed. 2010. “Approximate Skew
 Normal Distribution.” _Journal of Advanced Research_ 1 (4): 341–50.
