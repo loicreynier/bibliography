@@ -432,17 +432,18 @@ Ravier, Stéphane, Malek Abid, Muriel Amielh, and Fabien Anselmet. 2005.
 of Fluid Mechanics_ 546 (December): 153.
 <https://doi.org/10.1017/s0022112005006993>.
 
-Reynier, Loïc, Bastien Di Pierro, and Frédéric Alizard. submitted.
-“Isotropic Turbulence of Variable-Density Incompressible Flows.”
-_Physical Review Fluids_, submitted.
-
-———. 2021. “Turbulence Inhomogène Et Isotrope Des Écoulements
-Incompressibles à Densité Variable.” In _Congrès Des Jeunes Chercheurs
-En Mécanique (MECA-j)_, 75.
+Reynier, Loïc, Bastien Di Pierro, and Frédéric Alizard. 2021.
+“Turbulence Inhomogène Et Isotrope Des Écoulements Incompressibles à
+Densité Variable.” In _Congrès Des Jeunes Chercheurs En Mécanique
+(MECA-j)_, 75.
 
 ———. 2022. “Inhomogeneous Isotropic Trubulence of Variable Density
 Incompressible Flows.” In _14th European Fluid Mechanics Conference
 (EFMC14)_, 854.
+
+———. 2024. “Isotropic Turbulence of Variable-Density Incompressible
+Flows.” _Physical Review Fluids_ 9 (5).
+<https://doi.org/10.1103/physrevfluids.9.054604>.
 
 Reynier, Loïc, Bastien Di Pierro, Frédéric Alizard, Anne Cadiou, Lionel
 Le Penven, and Marc Buffat. 2023. “A Preconditioning for the Spectral
