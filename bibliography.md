@@ -272,12 +272,9 @@ Rotating Flows: Inviscid Case and Viscous Effects in the Limit of Large
 Reynolds Numbers.” _Physical Review Fluids_ 8 (3): 033901.
 <https://doi.org/10.1103/physrevfluids.8.033901>.
 
-Jacques, Corentin, Bastien Di Pierro, and Marc Buffat. submitted. “The
-Stability of Variable Density Mixing Layers and Planar Jets.” _Journal
-of Fluid Mechanics_, submitted.
-
-———. 2024. “The Linear Stability of the Kazhikhov–Smagulov Model.”
-_European Journal of Mechanics - B/Fluids_, April.
+Jacques, Corentin, Bastien Di Pierro, and Marc Buffat. 2024. “The Linear
+Stability of the Kazhikhov–Smagulov Model.” _European Journal of
+Mechanics - B/Fluids_, April.
 <https://doi.org/10.1016/j.euromechflu.2024.04.001>.
 
 Janin, Jérémie, Fabien Duval, Christophe Friess, and Pierre Sagaut. 2021. “A New Linear Forcing Method for Isotropic Turbulence with
